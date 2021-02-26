@@ -36,7 +36,7 @@ brdDash.addEventListener ("click", () =>{
     plan.style.border = "dashed 3px black"
 })
 brdPetit.addEventListener ("click", () =>{
-    plan.style.border = "1px solid black"
+    plan.style.border = "2px solid black"
 })
 brdVide.addEventListener ("click", () =>{
     plan.style.border = ""
@@ -99,7 +99,7 @@ rightBottom.addEventListener ("click", () =>{
     plan.style.borderBottomRightRadius = `${rightBottom.value}%`
 })
 leftBottom.addEventListener ("click", () =>{
-    plan.style.borderBottomLeftRadius = `${leftBottom.value} %`
+    plan.style.borderBottomLeftRadius = `${leftBottom.value}%`
 })
 
 // Variables
