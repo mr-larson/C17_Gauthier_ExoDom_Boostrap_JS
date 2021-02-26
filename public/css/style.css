@@ -1,15 +1,16 @@
 /*-------------- lien sass --------------*/
 /*nav*/
 /*main*/ 
-/** Border **/
+/** Colors **/
 .Border {
   border-bottom: 4px solid #6454ad;
 }
 
 .btnPurple {
-  background-color: #5b0b8a;
+  background-color: #620b8a;
 }
 
+/** Button Border **/
 .brdGros {
   border: solid 3px black;
   height: 6vh;
@@ -52,7 +53,7 @@
   width: 5vw;
 }
 
-/** Input **/
+/** Input Color & Border **/
 .input {
   margin-top: 7vh;
 }
@@ -94,7 +95,7 @@
   width: 6vw;
 }
 
-/** Radius **/
+/** Input Radius **/
 .radius {
   margin-top: 7vh;
 }
