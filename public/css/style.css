@@ -1,0 +1,89 @@
+/*-------------- lien sass --------------*/
+/*nav*/
+.Border {
+  border-bottom: 4px solid #6454ad;
+}
+
+.btnPur {
+  background-color: #5b0b8a;
+}
+
+.Border-Gro {
+  border: solid 3px black;
+  height: 6vh;
+  width: 5vw;
+}
+
+.BorderDash {
+  border: dashed 3px black;
+  height: 6vh;
+  width: 5vw;
+}
+
+.borderPetit {
+  border: 1px solid black;
+  height: 6vh;
+  width: 5vw;
+}
+
+.borderVide {
+  background-color: #a8a8a8;
+  height: 6vh;
+  width: 5vw;
+}
+
+.borderTop2 {
+  border-top: 2px solid red;
+  height: 6vh;
+  width: 5vw;
+}
+
+.borderTop6 {
+  border-top: 6px solid red;
+  height: 6vh;
+  width: 5vw;
+}
+
+.border {
+  border: 2px solid black;
+  height: 6vh;
+  width: 5vw;
+}
+
+.color {
+  height: 6vh;
+  width: 10vw;
+  padding: 10px;
+  border: solid 1px black;
+}
+
+.borderTop {
+  border-top: 2px solid black;
+  height: 6vh;
+  width: 5vw;
+}
+
+.borderLeft {
+  border-left: 2px solid black;
+  height: 6vh;
+  width: 5vw;
+}
+
+.borderBottom {
+  border-bottom: 2px solid black;
+  height: 6vh;
+  width: 5vw;
+}
+
+.borderRight {
+  border-right: 2px solid black;
+  height: 6vh;
+  width: 5vw;
+}
+
+/*main*/ 
+/*footer*/
+/*variables*/
+/*---------------- style -------------*/
+
+/*# sourceMappingURL=style.css.map */
