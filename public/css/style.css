@@ -1,45 +1,46 @@
 /*-------------- lien sass --------------*/
 /*nav*/
+/*main*/ 
 /** Border **/
 .Border {
   border-bottom: 4px solid #6454ad;
 }
 
-.btnPur {
+.btnPurple {
   background-color: #5b0b8a;
 }
 
-.Border-Gro {
+.brdGros {
   border: solid 3px black;
   height: 6vh;
   width: 5vw;
 }
 
-.BorderDash {
+.brdDash {
   border: dashed 3px black;
   height: 6vh;
   width: 5vw;
 }
 
-.borderPetit {
+.brdPetit {
   border: 1px solid black;
   height: 6vh;
   width: 5vw;
 }
 
-.borderVide {
+.brdVide {
   background-color: #a8a8a8;
   height: 6vh;
   width: 5vw;
 }
 
-.borderTop2 {
+.brdTop2 {
   border-top: 2px solid red;
   height: 6vh;
   width: 5vw;
 }
 
-.borderTop6 {
+.brdTop6 {
   border-top: 6px solid red;
   height: 6vh;
   width: 5vw;
@@ -52,38 +53,90 @@
 }
 
 /** Input **/
+.input {
+  margin-top: 7vh;
+}
+
 .inpColor {
-  height: 6vh;
-  width: 12vw;
+  height: 7vh;
+  width: 13vw;
   padding: 10px;
   border: solid 1px black;
+}
+
+.inp {
+  border: solid 4px black;
+  height: 6vh;
+  width: 6vw;
 }
 
 .inpTop {
   border-top: 4px solid black;
   height: 6vh;
-  width: 5vw;
+  width: 6vw;
 }
 
 .inpLeft {
   border-left: 4px solid black;
   height: 6vh;
-  width: 5vw;
+  width: 6vw;
 }
 
 .inpBottom {
   border-bottom: 4px solid black;
   height: 6vh;
-  width: 5vw;
+  width: 6vw;
 }
 
 .inpRight {
   border-right: 4px solid black;
   height: 6vh;
-  width: 5vw;
+  width: 6vw;
 }
 
-/*main*/ 
+/** Radius **/
+.radius {
+  margin-top: 7vh;
+}
+
+.radiusFull {
+  border-radius: 10%;
+  height: 6vh;
+  width: 6vw;
+}
+
+.leftTop {
+  border-top-left-radius: 10%;
+  height: 6vh;
+  width: 6vw;
+}
+
+.rightTop {
+  border-top-right-radius: 10%;
+  height: 6vh;
+  width: 6vw;
+}
+
+.rightBottom {
+  border-bottom-right-radius: 10%;
+  height: 6vh;
+  width: 6vw;
+}
+
+.leftBottom {
+  border-bottom-left-radius: 10%;
+  height: 6vh;
+  width: 6vw;
+}
+
+/** PLan De Travail **/
+.plan {
+  margin-top: 10vh;
+  border: solid 3px black;
+  height: 26vh;
+  width: 30vw;
+}
+
 /*footer*/
 /*variables*/
 /*---------------- style -------------*/
